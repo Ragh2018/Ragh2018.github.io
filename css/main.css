@@ -16,7 +16,7 @@ body {
   width: 100%;
   height: 100%;
   z-index: -20;
-  background-color: #182327;
+  background-color: #0C090A;
   /*background: linear-gradient(#000000,#191919);*/
   /*background-image: url("");
   background-repeat: no-repeat;
@@ -119,21 +119,21 @@ p{
   transform: translateY(-4px);
 }
 .ico:hover .fb{
-  color:white;
+  color:#3b5998;
 
 }
 
 .ico:hover .lin{
-  color:white;
+  color:#4875B4;
 }
 .ico:hover .git{
-  color:white;
+  color:black;
 }
 .ico:hover .mail{
-  color:white;
+  color: #C63D2D;
 }
 .ico:hover .twit{
-  color:white;
+  color:#33CCFF;
 }
 .ico-res:hover .res{
   color:white;
