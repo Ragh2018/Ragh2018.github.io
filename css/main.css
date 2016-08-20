@@ -24,7 +24,7 @@ body {
   background-position: 50% 50%;*/
 }
 .head{
-  color: #32CD32;
+  color:#DC143C;
   /*font-family: 'Karla', sans-serif;*/
   font-family: 'Lustria', serif;
   font-family: 'Raleway', sans-serif;
@@ -67,7 +67,7 @@ p{
   font-size: 25px;
   margin-top: 20px;
   margin-bottom: 0px;
-  color:white;
+  color:#DC143C;
   font-family: 'Raleway', sans-serif;
   font-family: 'Roboto', sans-serif;
   font-family: 'Montserrat', sans-serif;
@@ -80,7 +80,7 @@ p{
 
 }
 .fb, .lin, .git, .twit, .mail, .res{
-  color:#32CD32;
+  color:#DC143C;
 }
 
 .ico{
@@ -130,7 +130,7 @@ p{
   color:black;
 }
 .ico:hover .mail{
-  color: #C63D2D;
+  color:#C63D2D;
 }
 .ico:hover .twit{
   color:#33CCFF;
@@ -149,7 +149,7 @@ p{
 }
 
 .p {
-  background-color: blue;
+  background-color: #DC143C;
   height: 100%;
   width: 10%;
   float: left;
